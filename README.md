@@ -1,7 +1,7 @@
 # interview-lab-iOS
 iOS 면접 질문 정리를 위한 레포지토리입니다.
 
-## Swift 기초
+## Swift
 
 <details>
 <summary>Class VS Struct</summary>
@@ -16,6 +16,19 @@ iOS 면접 질문 정리를 위한 레포지토리입니다.
   - 
 - Struct
   - 값 타입
+
+</div>
+</details>
+
+
+## RxSwift
+
+<details>
+<summary>Hot VS Cold</summary>
+<div markdown="1">
+
+- Hot: 등록하는 시점부터 이벤트를 방출
+- Cold: 구독하는 시점부터 이벤트를 방출
 
 </div>
 </details>
