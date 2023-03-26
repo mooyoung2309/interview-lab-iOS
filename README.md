@@ -1,6 +1,4 @@
-# interview-lab-iOS
-iOS 면접 질문 정리를 위한 레포지토리입니다.
-
+# Pure
 ## Swift
 
 <details>
@@ -20,7 +18,7 @@ iOS 면접 질문 정리를 위한 레포지토리입니다.
 </div>
 </details>
 
-
+# Third-Party
 ## RxSwift
 
 <details>
@@ -29,6 +27,28 @@ iOS 면접 질문 정리를 위한 레포지토리입니다.
 
 - Hot: 등록하는 시점부터 이벤트를 방출
 - Cold: 구독하는 시점부터 이벤트를 방출
+
+</div>
+</details>
+
+## SnapKit
+
+<details>
+<summary>leading VS left</summary>
+<div markdown="1">
+
+- leading: 시작점, 현지화 적용
+- left: 단순히 왼쪽
+
+</div>
+</details>
+
+<details>
+<summary>update VS remake</summary>
+<div markdown="1">
+
+- update: 상수만
+- remake: 오토레이아웃 다시 
 
 </div>
 </details>
